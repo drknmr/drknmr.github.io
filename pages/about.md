@@ -10,7 +10,6 @@ K N M Rao received a BTech in chemical Engineering in 2001, from JNTUH, and the 
 
 Site is under construction ...... 
 
-
 Karl is a Senior Editor for [_Genetics_](http://www.genetics.org),
 Academic Editor for [_PeerJ_](https://peerj.com), and
 a member of the [_BMC Biology_](https://bmcbiol.biomedcentral.com)
