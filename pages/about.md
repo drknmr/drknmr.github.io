@@ -20,16 +20,12 @@ Site is under construction ......
             K N M Rao<br/>
             <a href="http://info.vit.ac.in/cdmm/index.html"> Center for Disaster Mitigation and Management </a><br/>
             <a href="http://www.vit.ac.in/">Vellore Institute of Technology;Vellore</a><br/>
-            <a href="https://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
-            425 Henry Mall<br/>
-            Madison, Wisconsin 53706<br/>
-            USA<br/><br/>
-
+            
             <div id="hide_email">
             Email: <code>bro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
             </b><code></code><b>So</b><code></code><b>please</b><code>wi</code><b>leave
             </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-            Phone: 608-262-4633
+            Phone: 0416-2202160
             </div>
         </div>
 
