@@ -1,7 +1,7 @@
 ---
 layout: frontpage
-title: Karl Broman
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
+title: K N M Rao
+description: K N M Rao is Associate Professor in CDMM at VIT University - Vellore; research is mainly focused on design and simulation of industrial plants using Aspen.
 keywords: Broman, QTL, R/qtl, quantitative trait loci, statistics, statistical genetics, recombination
 ---
 
