@@ -1,9 +1,10 @@
 ---
 layout: page
 title: about
-description: K N M Rao is Associate Professor in CDMM at VIT University - Vellore; research is mainly focused on design and simulation of industrial plants using Aspen.
+description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
 ---
 
+K N M Rao is Associate Professor in CDMM at VIT University - Vellore; research is mainly focused on design and simulation of industrial plants using Aspen.
 Karl Broman is Professor in the
 [Department of Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu)
 at the University of Wisconsin&ndash;Madison;
