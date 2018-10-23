@@ -8,7 +8,7 @@ K N M Rao is Associate Professor in [CDMM](http://info.vit.ac.in/cdmm/index.html
 
 K N M Rao received a BTech in chemical Engineering in 2001, from JNTUH, and the PhD in Chemical Engineering in 2011, from Andhra University.
 
-Site is under construction.....
+Site is under construction ...... 
 
 Karl is a Senior Editor for [_Genetics_](http://www.genetics.org),
 Academic Editor for [_PeerJ_](https://peerj.com), and
@@ -56,8 +56,8 @@ his [D3 examples](https://www.biostat.wisc.edu/~kbroman/D3).
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/karl_2014-03-30.jpg">
-            <img src="assets\pics\naga.jpg"
+        <a href="../assets/pics/naga.jpg">
+            <img src="../assets/pics/naga.jpg"
                   title="Karl Broman" alt="Karl Broman"/></a>
         </div>
     </div>
