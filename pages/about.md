@@ -10,6 +10,7 @@ K N M Rao received a BTech in chemical Engineering in 2001, from JNTUH, and the 
 
 Site is under construction ...... 
 
+!!!
 Karl is a Senior Editor for [_Genetics_](http://www.genetics.org),
 Academic Editor for [_PeerJ_](https://peerj.com), and
 a member of the [_BMC Biology_](https://bmcbiol.biomedcentral.com)
@@ -31,7 +32,7 @@ his [D3 examples](https://www.biostat.wisc.edu/~kbroman/D3).
 [impactstory](https://impactstory.org/u/0000-0002-4914-6671)<br/>
 [github](https://github.com/kbroman)<br/>
 [blog](https://kbroman.org/blog)
-
+!!!
 ---
 
 <div class="container">
@@ -39,26 +40,27 @@ his [D3 examples](https://www.biostat.wisc.edu/~kbroman/D3).
 
     <div class="row-fluid">
         <div class="span5">
-            Karl Broman<br/>
-            <a href="https://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
-            <a href="https://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
+            K N M Rao<br/>
+            <a href="http://info.vit.ac.in/cdmm/index.html"> Center for Disaster Mitigation and Management </a><br/>
+            <a href="http://www.vit.ac.in/">Vellore Institute of Technology;Vellore</a><br/>
+            !!!
             <a href="https://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
             425 Henry Mall<br/>
             Madison, Wisconsin 53706<br/>
             USA<br/><br/>
 
             <div id="hide_email">
-            Email: <code>bro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
+            Email: <code>bro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!!!
             </b><code></code><b>So</b><code></code><b>please</b><code>wi</code><b>leave
             </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-            Phone: 608-262-4633
+            Phone: 0416-2202160
             </div>
         </div>
 
         <div class="span2">
         <a href="../assets/pics/naga.jpg">
             <img src="../assets/pics/naga.jpg"
-                  title="Karl Broman" alt="Karl Broman"/></a>
+                  title="K N M Rao" alt="K N M Rao"/></a>
         </div>
     </div>
 </div>
