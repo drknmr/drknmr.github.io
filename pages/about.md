@@ -4,25 +4,11 @@ title: about
 description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
 ---
 
-K N M Rao is Associate Professor in CDMM at VIT University - Vellore; research is mainly focused on design and simulation of industrial plants using Aspen.
-Karl Broman is Professor in the
-[Department of Biostatistics &amp; Medical Informatics](https://www.biostat.wisc.edu)
-at the University of Wisconsin&ndash;Madison;
-research in statistical genetics; developer of
-[R/qtl](https://rqtl.org) (for [R](https://www.r-project.org)).
+K N M Rao is Associate Professor in [CDMM](http://info.vit.ac.in/cdmm/index.html) at VIT University - Vellore; research is mainly focused on design and simulation of industrial plants using Aspen.
 
-Karl received a BS in [mathematics](http://uwm.edu/math)
-in 1991, from the
-University of Wisconsin&ndash;Milwaukee, and a
-PhD in [statistics](http://stat.berkeley.edu) in 1997, from the
-University of California, Berkeley; his PhD advisor was
-[Terry Speed](http://www.wehi.edu.au/people/terry-speed).
-He was a postdoctoral fellow with James Weber at the
-[Marshfield Clinic Research Foundation](http://research.marshfieldclinic.org),
-1997&ndash;1999. He
-was a faculty member in the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) at Johns
-Hopkins University, 1999&ndash;2007. In 2007, he moved to the
-[University of Wisconsin&ndash;Madison](https://www.wisc.edu).
+K N M Rao received a BTech in chemical Engineering in 2001, from JNTUH, and the PhD in Chemical Engineering in 2011, from Andhra University.
+
+Site is under construction.....
 
 Karl is a Senior Editor for [_Genetics_](http://www.genetics.org),
 Academic Editor for [_PeerJ_](https://peerj.com), and
@@ -71,7 +57,7 @@ his [D3 examples](https://www.biostat.wisc.edu/~kbroman/D3).
 
         <div class="span2">
         <a href="../assets/pics/karl_2014-03-30.jpg">
-            <img src="../assets/pics/karl_2014-03-30_small.jpg"
+            <img src="assets\pics\naga.jpg"
                   title="Karl Broman" alt="Karl Broman"/></a>
         </div>
     </div>
